@@ -2,6 +2,9 @@
 
 **CRUD app to record posts by its title, description and date.**
 
+![image](https://user-images.githubusercontent.com/60073178/224587929-9d5ecca6-15be-4507-bbec-9c2e6f07eeec.png)
+
+
 ## 🛠️Tech used:
 
 - Javascript
